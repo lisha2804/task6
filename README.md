@@ -7,7 +7,7 @@ A clean, multi-page static website built using HTML and CSS. The project demonst
 
 # Live Demo
 
-[🔗 View Live]()
+[🔗 View Live](https://lisha2804.github.io/task6/)
 
 ---
 
