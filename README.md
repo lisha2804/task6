@@ -15,11 +15,11 @@ A clean, multi-page static website built using HTML and CSS. The project demonst
 
 ### Desktop View
 
-![Desktop Screenshot](images/desktop1.png)
+![Desktop Screenshot](images/ss1.png)
 
 ### Mobile View
 
-![Mobile Screenshot](images/mobile1.png)
+![Mobile Screenshot](images/ss2.png)
 
 ---
 
